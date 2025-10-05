@@ -38,3 +38,16 @@ Project Dataframes:
 * 'moved_project_sql_result_04 (2).csv'
 
 * 'moved_project_sql_result_07 (3).csv'
+
+
+Project Libraries And Tools Used: 
+
+*requests
+
+*pandas 
+
+*bs4 (function:BeautifulSoup())
+
+*numpy 
+
+*scipy (module:stats)
