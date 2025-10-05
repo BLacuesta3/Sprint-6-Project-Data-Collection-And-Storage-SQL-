@@ -1,8 +1,7 @@
 Project Title: Sprint 6 Project/ Data Collection And Storage (SQL) 
 
 Project Description: This project consists of exploratory data analyses and hypothesis testing of information from Zuber, a new ride sharing company in Chicago (hypothetical company). 
-The main objective of this project is to understand passenger preferences and the impact of external factor on rides.  This project includes various Exploratory Data Analysis (EDA)
-sections as well as a hypothesis testing task at the end of the project. 
+The main objective of this project is to understand passenger preferences and the impact of external factor on rides.  The parsing technique is used in order to read/upload the dataframe from a URL using the: requests and bs4 libraries This project includes various Exploratory Data Analysis (EDA) sections as well as a hypothesis testing task at the end of the project. 
 
 Tasks Presented In The Project: 
 
@@ -46,8 +45,14 @@ Project Libraries And Tools Used:
 
 *pandas 
 
-*bs4 (function:BeautifulSoup())
+*bs4 (function: BeautifulSoup())
 
 *numpy 
 
-*scipy (module:stats)
+*scipy (module: stats)
+
+Project Methodology: 
+
+1) Importing The Necessary Libraries Via Parsing Using the requests and bs4 Libraries
+
+2) 
