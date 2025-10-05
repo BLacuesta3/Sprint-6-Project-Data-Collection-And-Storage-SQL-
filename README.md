@@ -65,7 +65,7 @@ Project Methodology:
 
 5) Bar Chart For Top 10 Neighborhoods In Terms Of Dropoffs (EDA Task)
    
-   Bar Chart Results:
+   Top 10 Neighborhoods In Terms Of Dropoffs Bar Chart Results:
 
    1) Loop- with an average trips sum of approximately 10,727 trips.
 
