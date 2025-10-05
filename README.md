@@ -53,6 +53,50 @@ Project Libraries And Tools Used:
 
 Project Methodology: 
 
-1) Importing The Necessary Libraries Via Parsing Using the requests and bs4 Libraries
+1) Importing The Necessary Libraries Via Parsing Using The Requests And bs4 Libraries
 
-2) 
+2) Data Cleaning/ Data Preprocessing
+
+3) Bar Chart Displaying Number Of Rides Per Taxi Company (EDA Task)
+
+   Bar Chart Results:
+   The company with the most amount of rides per company was Flash Cab, which had 19,558 trips. The company with the least amount of rides per company was
+   Blue Ribbon Taxi Association Inc., with 5,953 trips.
+
+5) Bar Chart For Top 10 Neighborhoods In Terms Of Dropoffs (EDA Task)
+   
+   Bar Chart Results:
+
+   1) Loop- with an average trips sum of approximately 10,727 trips.
+
+   2) River North- with an average trips sum of approximately 9,523 trips.
+
+   3) Streeterville- with an average trips sum of approximately 6,664 trips.
+
+   4) West Loop- with an average trips sum of approximately 5,163 trips.
+
+   5) O'Hare- with an average trips sum of approximately 2,549 trips.
+
+   6) Lake View- with an average trips sum of approximately 2,420 trips.
+
+   7) Grant Park- with an average trips sum of approximately 2,068.533 trips.
+
+   8) Museum Campus- with an average trips sum of approximately 1,510 trips.
+
+   9) Gold Coast- with an average trips sum of approximately 1,364.233 trips.
+
+   10) Sheffield & DePaul- with an average trips sum of approximately 1,259 trips.
+
+7) Hypothesis Testing Task:
+
+   * Null Hypothesis: The average duration of rides from the Loop to O'Hare International Airport does not change on rainy Saturdays.
+
+   * Alternate Hypothesis: The average duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays.
+  
+     ttest Used For Task: st.ttest_ind()
+
+   Hypothesis Testing Task Result:
+
+   "We reject null hypothesis."
+
+
